@@ -1034,5 +1034,25 @@
             }
         ],
         "recipe": ""
+    },
+    {
+        "name": "Leftovers",
+        "type": [
+            "Dinner",
+            "Lunch",
+            "Breakfast"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Whatever's in the fridge",
+                "quantity": 1,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
     }
 ]
