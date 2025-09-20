@@ -1,4 +1,5 @@
 import streamlit as st
+from datetime import datetime
 import pandas as pd
 from PIL import Image, ImageDraw, ImageFont
 import io
@@ -12,6 +13,8 @@ st.set_page_config(
     page_icon="🍲",
     layout="wide"
 )
+
+date_today = datetime.today().strftime('%Y-%m-%d')
 
 # --- Helper Functions ---
 
@@ -297,7 +300,7 @@ if MEALS:
             for item, quantity, unit in shopping_df_data:
                 shopping_list_text += f"- {item}: {quantity} {unit}\n"
             
-            st.download_button("Download Shopping List as TXT", shopping_list_text, "shopping_list.txt", "text/plain")
+            st.download_button("Download Shopping List as TXT", shopping_list_text, f"shopping_list_{date_today}.txt", "text/plain")
 
             st.subheader("🖼️ Your Timetable")
             unique_prep_list = sorted(list(set(prep_list)))
@@ -307,7 +310,7 @@ if MEALS:
             plan_image.save(img_byte_arr, format='PNG')
             
             st.image(plan_image)
-            st.download_button("Download Timetable as PNG", img_byte_arr.getvalue(), "meal_plan.png", "image/png")
+            st.download_button("Download Timetable as PNG", img_byte_arr.getvalue(), f"meal_plan_{date_today}.png", "image/png")
             
             if prep_list:
                 st.subheader("🍳 Meal Prep Notes")

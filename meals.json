@@ -16,7 +16,7 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Peppers",
+                "item": "pepperss",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -26,7 +26,7 @@
                 "unit": "g"
             },
             {
-                "item": "Onions",
+                "item": "Onion",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -80,12 +80,12 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Peppers",
+                "item": "pepperss",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
             {
-                "item": "Onions",
+                "item": "onion",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -134,7 +134,7 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Peppers",
+                "item": "pepperss",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -188,7 +188,7 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Onions",
+                "item": "onion",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -198,7 +198,7 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Peppers",
+                "item": "pepperss",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -242,7 +242,7 @@
                 "unit": "g"
             },
             {
-                "item": "Onions",
+                "item": "onion",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -509,7 +509,7 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Pepper",
+                "item": "peppers",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -595,7 +595,7 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Onions",
+                "item": "onion",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -793,12 +793,12 @@
         "default_portions": 2,
         "ingredients": [
             {
-                "item": "Chicken",
+                "item": "Chicken Breast",
                 "quantity": 2,
                 "unit": "unit(s)"
             },
             {
-                "item": "1 Egg",
+                "item": "egg",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -841,7 +841,7 @@
                 "unit": "unit(s)"
             },
             {
-                "item": "Pepper",
+                "item": "peppers",
                 "quantity": 1,
                 "unit": "unit(s)"
             }
@@ -920,7 +920,7 @@
                 "unit": "slice(s)"
             },
             {
-                "item": "Egg",
+                "item": "onion",
                 "quantity": 1,
                 "unit": "unit(s)"
             },
@@ -938,7 +938,7 @@
         "recipe": ""
     },
     {
-        "name": "Eggs on Toast",
+        "name": "onions on Toast",
         "type": [
             "Breakfast"
         ],
@@ -948,7 +948,7 @@
         "default_portions": 1,
         "ingredients": [
             {
-                "item": "Eggs",
+                "item": "onions",
                 "quantity": 2,
                 "unit": "unit(s)"
             },
