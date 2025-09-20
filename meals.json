@@ -1,0 +1,1038 @@
+[
+    {
+        "name": "Chicken Tikka Masala",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Hard",
+        "meal_prep": true,
+        "is_salad": false,
+        "default_portions": 4,
+        "ingredients": [
+            {
+                "item": "Chicken breast",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Peppers",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Canned Tomatoes",
+                "quantity": 400,
+                "unit": "g"
+            },
+            {
+                "item": "Onions",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Chillis",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "CTM Seasoning",
+                "quantity": 2,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": 2,
+                "unit": "clove(s)"
+            },
+            {
+                "item": "Yoghurt",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "item": "Rice",
+                "quantity": 300,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Chilli Con Carne",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Hard",
+        "meal_prep": true,
+        "is_salad": false,
+        "default_portions": 4,
+        "ingredients": [
+            {
+                "item": "Beef Mince",
+                "quantity": 500,
+                "unit": "g"
+            },
+            {
+                "item": "Chillis",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Peppers",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Onions",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Canned tomatoes",
+                "quantity": 400,
+                "unit": "g"
+            },
+            {
+                "item": "Canned red kidney beans",
+                "quantity": 400,
+                "unit": "g"
+            },
+            {
+                "item": "Beef stock cube",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Garlic",
+                "quantity": 2,
+                "unit": "clove(s)"
+            },
+            {
+                "item": "Rice",
+                "quantity": 300,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Chicken Fajitas",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Medium",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Chicken breast",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Peppers",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Avocado",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Onion",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Tortilla Wraps",
+                "quantity": 4,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Beef & Potato Wraps",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Medium",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Beef Mince",
+                "quantity": 250,
+                "unit": "g"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Onions",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Avocado",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Peppers",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "item": "Tortilla Wraps",
+                "quantity": 4,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Spinach",
+                "quantity": 50,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Bolognese",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Hard",
+        "meal_prep": true,
+        "is_salad": false,
+        "default_portions": 4,
+        "ingredients": [
+            {
+                "item": "Beef Mince",
+                "quantity": 500,
+                "unit": "g"
+            },
+            {
+                "item": "Pasta",
+                "quantity": 400,
+                "unit": "g"
+            },
+            {
+                "item": "Onions",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Carrots",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Canned tomatoes",
+                "quantity": 400,
+                "unit": "g"
+            },
+            {
+                "item": "Garlic",
+                "quantity": 2,
+                "unit": "clove(s)"
+            },
+            {
+                "item": "Celery",
+                "quantity": 1,
+                "unit": "stalk(s)"
+            },
+            {
+                "item": "Olive oil",
+                "quantity": 1,
+                "unit": "tbsp"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Coleslaw",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": true,
+        "default_portions": 4,
+        "ingredients": [
+            {
+                "item": "Carrots",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Cabbage",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Mayonnaise",
+                "quantity": 3,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Onion",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Potato Salad",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": true,
+        "default_portions": 4,
+        "ingredients": [
+            {
+                "item": "New Potatoes",
+                "quantity": 500,
+                "unit": "g"
+            },
+            {
+                "item": "Mayonnaise",
+                "quantity": 3,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Spring onion",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Mustard",
+                "quantity": 1,
+                "unit": "tsp"
+            },
+            {
+                "item": "Cucumber",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Tomato & Avocado Salad",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": true,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Beef Tomatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Mozzarella",
+                "quantity": 125,
+                "unit": "g"
+            },
+            {
+                "item": "Avocado",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Onion",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Olives",
+                "quantity": 50,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Chickpea Salad",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": true,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Chickpeas",
+                "quantity": 400,
+                "unit": "g"
+            },
+            {
+                "item": "Onion",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Cucumber",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Olives",
+                "quantity": 50,
+                "unit": "g"
+            },
+            {
+                "item": "Cherry Tomatoes",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "item": "Lemon Juice",
+                "quantity": 1,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Mustard",
+                "quantity": 1,
+                "unit": "tsp"
+            },
+            {
+                "item": "Feta",
+                "quantity": 50,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Burgers",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Medium",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Burgers",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Buns",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Tomato",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Lettuce",
+                "quantity": 2,
+                "unit": "leaf/leaves"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pasta Bake",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Medium",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 4,
+        "ingredients": [
+            {
+                "item": "Pasta",
+                "quantity": 300,
+                "unit": "g"
+            },
+            {
+                "item": "Chorizo",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "item": "Mascarpone",
+                "quantity": 150,
+                "unit": "g"
+            },
+            {
+                "item": "Onion",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Pepper",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Garlic",
+                "quantity": 2,
+                "unit": "clove(s)"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "item": "Tomatoes",
+                "quantity": 200,
+                "unit": "g"
+            },
+            {
+                "item": "Chipotle",
+                "quantity": 1,
+                "unit": "tsp"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Meatballs & Pasta",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Medium",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Meatballs",
+                "quantity": 6,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Pasta",
+                "quantity": 200,
+                "unit": "g"
+            },
+            {
+                "item": "Onion",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Mushrooms",
+                "quantity": 100,
+                "unit": "g"
+            },
+            {
+                "item": "Canned Tomatoes",
+                "quantity": 400,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Grilled Fish w Broccoli",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Medium",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Fish Fillets",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Onions",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": 1,
+                "unit": "head(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Chicken Chilli Noodles w Broccoli",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Medium",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Chilli Oil",
+                "quantity": 1,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Onion",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Garlic",
+                "quantity": 2,
+                "unit": "clove(s)"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": 1,
+                "unit": "head(s)"
+            },
+            {
+                "item": "Udon Noodles",
+                "quantity": 200,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pesto Pasta",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Pasta",
+                "quantity": 200,
+                "unit": "g"
+            },
+            {
+                "item": "Pesto",
+                "quantity": 2,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Garlic",
+                "quantity": 1,
+                "unit": "clove(s)"
+            },
+            {
+                "item": "Onion",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Broccoli",
+                "quantity": 0.5,
+                "unit": "head(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Baked Potatoes",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Baking Potatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Tuna",
+                "quantity": 1,
+                "unit": "can(s)"
+            },
+            {
+                "item": "Mayonnaise",
+                "quantity": 2,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Onion",
+                "quantity": 0.5,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Baked Beans",
+                "quantity": 1,
+                "unit": "can(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Tinned Fun",
+        "type": [
+            "Breakfast",
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Sourdough",
+                "quantity": 2,
+                "unit": "slice(s)"
+            },
+            {
+                "item": "Tinned Fish can",
+                "quantity": 1,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Grilled Chicken w Rice & Potatoes",
+        "type": [
+            "Lunch",
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Chicken Breast",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Rice",
+                "quantity": 150,
+                "unit": "g"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pad Thai Kit",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Chicken",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "1 Egg",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Spring Onion",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Pad Thai Kit",
+                "quantity": 1,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "One Tray Chicken Thighs/Wings",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Chicken Thighs/Wings",
+                "quantity": 4,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Potatoes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Onion",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Pepper",
+                "quantity": 1,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Fishcakes & Salad",
+        "type": [
+            "Dinner"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 2,
+        "ingredients": [
+            {
+                "item": "Fishcakes",
+                "quantity": 2,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Yoghurt & Granola",
+        "type": [
+            "Breakfast"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Yoghurt",
+                "quantity": 150,
+                "unit": "g"
+            },
+            {
+                "item": "Granola",
+                "quantity": 50,
+                "unit": "g"
+            },
+            {
+                "item": "Chia Seeds",
+                "quantity": 1,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Frozen Berries",
+                "quantity": 50,
+                "unit": "g"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Cooked Breakfast",
+        "type": [
+            "Breakfast"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Sausages",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Bacon",
+                "quantity": 2,
+                "unit": "slice(s)"
+            },
+            {
+                "item": "Egg",
+                "quantity": 1,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Baked Beans",
+                "quantity": 0.5,
+                "unit": "can(s)"
+            },
+            {
+                "item": "Sourdough",
+                "quantity": 1,
+                "unit": "slice(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Eggs on Toast",
+        "type": [
+            "Breakfast"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Eggs",
+                "quantity": 2,
+                "unit": "unit(s)"
+            },
+            {
+                "item": "Sourdough",
+                "quantity": 2,
+                "unit": "slice(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Beans on Toast",
+        "type": [
+            "Breakfast"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Beans",
+                "quantity": 1,
+                "unit": "can(s)"
+            },
+            {
+                "item": "Sourdough",
+                "quantity": 2,
+                "unit": "slice(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "PB Toast",
+        "type": [
+            "Breakfast"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Peanut Butter",
+                "quantity": 2,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Sourdough",
+                "quantity": 2,
+                "unit": "slice(s)"
+            },
+            {
+                "item": "Jam",
+                "quantity": 1,
+                "unit": "tbsp"
+            },
+            {
+                "item": "Bananas",
+                "quantity": 1,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Home Meal",
+        "type": [
+            "Dinner",
+            "Lunch"
+        ],
+        "difficulty": "Easy",
+        "meal_prep": false,
+        "is_salad": false,
+        "default_portions": 1,
+        "ingredients": [
+            {
+                "item": "Whatever's in the freezer",
+                "quantity": 1,
+                "unit": "unit(s)"
+            }
+        ],
+        "recipe": ""
+    }
+]
